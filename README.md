@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devjit Patra
 - 👀 I’m interested in Coding, gaming, youtubing
-- 🌱 I’m currently in class 10
+- 🌱 I’m currently in class 11
 - 📫 How to reach me - devjitpatra1@gmail.com, +91 8961807265
 
 <!---
