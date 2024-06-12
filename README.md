@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Devjit Patra
-- 👀 I’m interested in Coding, gaming, youtubing
-- 🌱 I’m currently in class 11
-- 📫 How to reach me - devjitpatra1@gmail.com, +91 8961807265
+- 👀 I’m interested in Coding, gaming, YouTube
+- 📫 How to reach me - devjitpatra1@gmail.com, +91 6291233493
 
 <!---
 Creator-Hub-Official/Creator-Hub-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
